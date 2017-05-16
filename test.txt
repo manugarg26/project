@@ -3,3 +3,6 @@ This is text file and edited from git portal.
 This is test file and edited from local system.
 
 This is another line edited from portal
+
+This is edited from local system.
+
